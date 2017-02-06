@@ -1,5 +1,5 @@
 ﻿body {
-    background-color:white;
+    background-color:#ffefc1;
     }
 
 .footer .social [class^="icon-"] {
@@ -15,4 +15,16 @@
   line-height: 40px;
   align-content:center;
 }
+hr {
+    background-color: #012939;
+    height: 100px;
+    width: 50%;
+    margin: auto;
+    align-content: center;
+}
 
+div [class^="jumbotron text-center"]  {
+
+    background-color:#19af91;
+
+}

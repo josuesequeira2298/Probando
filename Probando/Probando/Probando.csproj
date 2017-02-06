@@ -94,10 +94,28 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AcercaDe.html" />
+    <Content Include="Computacion.html" />
+    <Content Include="Contacto.html" />
+    <Content Include="Cursos.html" />
+    <Content Include="Descargas.html" />
+    <Content Include="Images\acercaDe.png" />
+    <Content Include="Images\computacion.jpg" />
+    <Content Include="Images\contacto.jpg" />
+    <Content Include="Images\Cursos.png" />
+    <Content Include="Images\Downloads.jpeg" />
+    <Content Include="Images\Objetivos.png" />
+    <Content Include="Images\pasatiempos.png" />
+    <Content Include="Images\PicsArt_04-25-10.39.24.jpg" />
+    <Content Include="Images\Porqué.png" />
+    <Content Include="Images\Prof.jpeg" />
+    <Content Include="Objetivos.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Profs&amp;compas.html" />
+    <Content Include="Why.html" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -106,8 +124,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Probando.html" />
-    <Content Include="StyleSheet1.css" />
+    <Content Include="Home.html" />
+    <Content Include="Pasatiempos.html" />
+    <Content Include="Prueba.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
